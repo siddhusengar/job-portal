@@ -1,0 +1,164 @@
+*{
+margin:0px;
+padding:0px;
+}
+img{border:0px}
+html{
+width:100%;
+background-image:url(images/bg.gif);
+background-position:top left;
+background-repeat:repeat-x;
+}
+body{
+width:1000px;
+margin:0 auto;
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+.meta{
+color:#F5F5F5;
+background-image:url(images/meta_bg.gif);
+background-position:top right;
+background-repeat:no-repeat;
+height:36px;
+width:924px;
+overflow:hidden;
+}
+.meta a{
+color:#92DF01;
+text-decoration:underline
+}
+.meta a:visited{text-decoration:underline}
+.meta a:hover{text-decoration:none}
+.meta p{
+display:block;
+float:right;
+line-height:18px;
+}
+.metalinks{
+height:23px;
+width:166px;
+margin:0 0 0 22px;
+padding:13px 0 0 0;
+float:right;
+text-align:center;
+}
+.metalinks a{
+margin:0 10px 0 7px
+}
+#header{
+position:relative;
+padding:0 0 0 32px;
+height:100px;
+width:892px;
+}
+.logo{
+float:left;
+}
+.slogan{
+display:block;
+position:absolute;
+top:25px;
+left:70px;
+}
+#menu{
+float:left;
+margin:0 0 10px 79px;
+}
+#menu li{
+list-style-type:none;
+display:block;
+float:left;
+line-height:40px;
+height:40px;
+padding:0 14px;
+background-image:url(images/line.gif);
+background-position:top right;
+background-repeat:no-repeat;
+}
+#menu .last{
+background:none;
+}
+#menu a{
+font-size:12px;
+color:#272727;
+text-decoration:none;
+}
+#menu a:visited{text-decoration:none}
+#menu a:hover{text-decoration:underline}
+#content{
+width:859px;
+margin:0 auto;
+}
+.formBox {
+    background: url('/media/images/candidate/new/div_Bg.jpg?99842328d2d8') repeat-x scroll center -401px #A3FF85;
+    border-radius: 3px 0px 0px 3px;
+    min-height: 430px;
+    width: 480px;
+}
+.formBox h2 {
+    text-align: center;
+    color: #062937;
+    font-size: 30px;
+    text-shadow: 1px 1px 0px #FFF;
+    padding-top: 14px;
+}
+.formBox p {
+    text-align: center;
+    color: #666;
+    font-size: 16px;
+    text-shadow: 1px 1px 0px #FFF;
+}
+.formBox input {
+    border-radius: 3px;
+    padding: 5px;
+    height: 23px;
+    width: 380px;
+    margin: 0px;
+    margin-left: 40px;
+    margin-top: 3px;
+    margin-bottom:9px;
+    font: 13px Arial,Helvetica,sans-serif;
+}
+#mobile {
+    width:165px;
+    margin-left: 40px;
+    text-shadow: 1px 1px 0px #FFF;
+    padding: 5px;
+    font: 13px Arial,Helvetica,sans-serif;
+}
+#checkbox {
+    height: 25px;
+    padding: 0px 5px 0px 0px;
+    background: url('/media/images/candidate/new/checkbox.png?99842328d2d8') no-repeat scroll 0% 0% transparent;
+    display: block;
+    clear: left;
+    align: left;
+    width: 19px;
+    float: left;
+}
+.formBox h3 {
+    color: #062937;
+    float: left;
+    margin-left: 5px;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.formBox button {
+    background: linear-gradient(to bottom, #0E3447 0px, #0B3144 31%, #0A2F41 64%, #0B2C3D 100%) repeat scroll 0% 0% transparent;
+    border: 1px solid #252A31;
+    color: #FFF;
+    padding: 4px 8px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 7px 50px;
+    width: 390px;
+    height: 35px;
+    text-transform: uppercase;
+    font-weight: bold;
+    box-shadow: 0px 1px 1px #D9D6CD;
+} 
+
+
+   
+
